@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title {
+    background-color: lightblue;
+}
+
+canvas {
+    border-style: rigid;
+    border-color: gold;
+    border-width: 5px;
+}
+
+.copy-right-footer {
+    bottom: 0;
+    position: fixed;
+}
+
+#text-of-name {
+    border-radius: 45px;
+}
